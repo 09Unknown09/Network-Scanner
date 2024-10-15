@@ -32,9 +32,8 @@ Usage
 
 1) Run the script:
 
-``bash
-Copy code
 python networkscanner.py
+
 
 2) Enter the target IP address and the range of ports you want to scan when prompted.
 
