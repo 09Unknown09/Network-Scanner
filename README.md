@@ -40,7 +40,7 @@ python networkscanner.py
 
 Example
 
-``bash
+```bash
 Copy code
 
 Enter the IP address to scan: 192.168.1.1
@@ -48,6 +48,7 @@ Enter the starting port number: 1
 Enter the ending port number: 1024
 Scanning 192.168.1.1 from port 1 to 1024...
 Open ports: [22, 80, 443]
+
 
 Disclaimer
 
