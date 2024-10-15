@@ -32,7 +32,7 @@ Usage
 
 1) Run the script:
 
-bash
+``bash
 Copy code
 python networkscanner.py
 
@@ -40,9 +40,7 @@ python networkscanner.py
 
 Example
 
-```bash
-Copy code
-
+``bash
 Enter the IP address to scan: 192.168.1.1
 Enter the starting port number: 1
 Enter the ending port number: 1024
