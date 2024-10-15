@@ -19,7 +19,7 @@ A simple network port scanner written in Python. This tool scans a specified IP 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/port-scanner.git
+   git clone https://github.com/09Unknown09/network-scanner.git
    cd port-scanner
 
 
@@ -40,7 +40,7 @@ python networkscanner.py
 
 Example
 
-bash
+```bash
 Copy code
 
 Enter the IP address to scan: 192.168.1.1
