@@ -40,7 +40,7 @@ python networkscanner.py
 
 Example
 
-```bash
+``bash
 Copy code
 
 Enter the IP address to scan: 192.168.1.1
