@@ -49,7 +49,7 @@ If Python is not installed, you can download it from python.org and follow the i
 3. **Run the Tool**: After installation, you can run the port scanner tool by executing:
 Copy code
 ```
-python port_scanner.py
+python3 network_scanner.py
 
 ```
 4. **Enter the target**: IP address and the range of ports you want to scan when prompted.
@@ -57,3 +57,17 @@ Example:
 
 ```
 Enter the IP address to scan: 192.168.1.1 Enter the starting port number: 1 Enter the ending port number: 1024 Scanning 192.168.1.1 from port 1 to 1024... Open ports: [22, 80, 443]
+```
+## Disclaimer 
+Use this tool responsibly and only on networks you own or have explicit permission to test. Scanning ports on networks without authorization may be illegal and unethical.
+## License
+
+This project is licensed under the MIT License. See file for details [MIT](https://choosealicense.com/licenses/mit/)
+
+
+## 🚀 About Me
+I am a passionate cybersecurity student currently pursuing my Post Graduate program in Cybersecurity, where I am deepening my knowledge of network security, ethical hacking, and information protection. I am enthusiastic about understanding the complexities of cybersecurity threats and developing effective strategies to mitigate them.
+
+
+In addition to my studies, I am currently doing an internship with Vault-Tec Security Company, where I am gaining hands-on experience in the field. During my internship, I have the opportunity to work alongside experienced professionals, engage in real-world security assessments, and contribute to safeguarding critical systems and data. This experience is invaluable as I apply theoretical knowledge to practical situations and learn the latest tools and techniques in the industry.
+
